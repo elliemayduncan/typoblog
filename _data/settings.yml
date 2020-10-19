@@ -1,11 +1,11 @@
 title: Typoblog
 description: A website with a blog
-header_text: Eat well with good typography
+header_text: catching your eye
 footer_text: Copyright 2020 Ellie Duncan
-header_feature_image: ../uploads/books4screen.jpg
+header_feature_image: ../uploads/alice-donovan-rouse-yu68fuqdvoi-unsplash.jpg
 bannerheight: 20vmax
-logo: /uploads/logo.jpg
-favicon: /uploads/favicon.ico
+logo: ../uploads/typoblog-title.jpg
+favicon: ../uploads/android-chrome-512x512.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
