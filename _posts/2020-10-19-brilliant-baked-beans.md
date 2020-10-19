@@ -2,6 +2,7 @@
 layout: post
 title: Brilliant Baked Beans
 date: 2020-10-19T15:45:09.888Z
+header_feature_image: ../uploads/heinz-baked-beans.jpg
 comments: true
 ---
 You wouldn’t think that something as basic and commonplace as baked bean tins have any thought put into them. In reality, depending on country, brand and time period, baked bean tin wrappers have a broad spectrum, including font, colour and general design.
